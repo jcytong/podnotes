@@ -1,4 +1,4 @@
-# Podnotes
+# PodNotes
 PodNotes turns your listens into lessons, with smart searches for your personal content feeds!
 
 ## Inspiration
